@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/e105695/Documents/IrisProject/221026_IrisProject/app/mlruns/5
+creation_time: 1666775070606
+experiment_id: '5'
+last_update_time: 1666775070606
+lifecycle_stage: active
+name: KM_classif

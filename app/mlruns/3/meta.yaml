@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/e105695/Documents/IrisProject/221025_IrisProject/app/mlruns/3
+creation_time: 1666720214365
+experiment_id: '3'
+last_update_time: 1666720214365
+lifecycle_stage: active
+name: GB_classif

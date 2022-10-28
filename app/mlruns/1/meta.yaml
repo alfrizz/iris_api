@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/e105695/Documents/IrisProject/221025_IrisProject/app/mlruns/1
+creation_time: 1666717969640
+experiment_id: '1'
+last_update_time: 1666717969640
+lifecycle_stage: active
+name: SVM_classif

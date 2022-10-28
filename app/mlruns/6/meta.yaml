@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/e105695/Documents/IrisProject/221026_IrisProject/app/mlruns/6
+creation_time: 1666795054355
+experiment_id: '6'
+last_update_time: 1666795054355
+lifecycle_stage: active
+name: NN_classif

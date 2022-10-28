@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/e105695/Documents/IrisProject/221026_IrisProject/app/mlruns/4
+creation_time: 1666774749868
+experiment_id: '4'
+last_update_time: 1666774749868
+lifecycle_stage: active
+name: LR_classif
